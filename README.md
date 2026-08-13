@@ -43,7 +43,7 @@ Product Analytics, User Research, SQL Funnel Analysis, UX Experimentation
 
 **Status:** In Progress
 
-[View the Vinted Case Study →]()
+[View the Vinted Case Study →](https://github.com/ratedaux/ratedaux/tree/main/projects/vinted-marketplace-analysis)
 
 ---
 
