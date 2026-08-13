@@ -1,4 +1,4 @@
-# Katja — Product Analytics Portfolio
+# Hi, I'm Katja 👋
 
 ## Software Engineering → Product Analytics
 
@@ -30,9 +30,9 @@ Currently, I’m developing practical skills in:
 
 ---
 
-## Portfolio Projects
+## 📂 Portfolio Projects
 
-## Vinted Marketplace Analytics
+## 🛍️ Vinted Marketplace Analytics
 
 **Independent Product Analytics Case Study**
 
@@ -41,7 +41,7 @@ An end-to-end analysis of the Vinted marketplace, exploring buyer and seller beh
 **Focus:**
 Product Analytics, User Research, SQL Funnel Analysis, UX Experimentation
 
-**Status:** In Progress
+**Status:** 🟡 In Progress
 
 [View the Vinted Case Study →](https://github.com/ratedaux/ratedaux/tree/main/projects/vinted-marketplace-analysis)
 
@@ -60,7 +60,7 @@ Planned areas include:
 
 ---
 
-## Skills
+## 🛠️ Skills
 
 ## Analytics
 
@@ -80,7 +80,7 @@ Planned areas include:
 
 ---
 
-## How I Approach Product Analytics
+## 🧠 How I Approach Product Analytics
 
 I try to approach analytics from both a data and user perspective.
 
@@ -104,7 +104,7 @@ My typical process is:
 
 ---
 
-## Currently Learning
+## 📚 Currently Learning
 
 I’m currently deepening my knowledge of:
  - Advanced SQL
@@ -153,7 +153,7 @@ I’m particularly interested in teams where I can combine my technical backgrou
 
 ---
 
-## Connect
+## 🔗 Connect
 
 [LinkedIn](https://www.linkedin.com/in/katja-k-61619b220/)
 
