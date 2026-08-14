@@ -21,7 +21,7 @@ The project combines:
 - 💬 Qualitative analysis of user feedback
 - 📊 Product analytics
 - 💻 SQL analysis
-- 📈 Data visualization
+- 📈 Data visualisation
 - 💡 Product recommendations
 - 🧪 Experiment design
 
@@ -38,7 +38,7 @@ To explore this question, I will investigate:
 - Where potential drop-offs occur in the buyer journey
 - Which user actions may indicate purchase intent
 - Where users may encounter friction
-- How user behavior may differ across segments
+- How user behaviour may differ across segments
 - Which product improvements could potentially increase conversion
 
 ---
@@ -54,10 +54,10 @@ I will refine this journey as I explore the product and gather evidence.
 ### Key Questions
 
 - What motivates a user to move from browsing to purchasing?
-- Why might a user favorite an item without buying it?
+- Why might a user favourite an item without buying it?
 - At which stage might users lose purchase intent?
 - What information or interaction could reduce uncertainty?
-- Which behaviors could indicate a higher likelihood of purchase?
+- Which behaviours could indicate a higher likelihood of purchase?
 
 ---
 
@@ -104,14 +104,20 @@ I will document relevant parts of the experience, including:
 
 ### 2. Public User Feedback
 
-I will look for recurring themes in publicly available:
+**Sources analysed:** App Store, Google Play, Reddit.
 
-- App Store and Google Play reviews
-- Reddit discussions
-- Product documentation
-- Public feature announcements
+| Theme | Seller reviews | Buyer reviews | % of reviews mentioning theme |
+|---|---|---|---|
+| Customer support | 18 | 7 | 25% |
+| Dispute resolution | 18 | 7 | 25% |
+| Search/filtering | 18 | 7 | 25% |
+| Shipping | 18 | 7 | 25% |
 
-The goal is to identify patterns, rather than treating individual comments as representative data.
+Types of reported issues falling into the category of customer support: 
+
+Some users reported the absence of a condition filter, while the feature was available in my current app version. This may indicate a staged rollout, A/B test, regional variation, or inconsistent UX rather than a universally missing feature.
+
+---
 
 ### 3. Competitive Research
 
