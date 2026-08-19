@@ -129,6 +129,23 @@ I will document relevant parts of the experience, including:
 | Shipping | 17 | 42.5% |
 | Buyer protection | 19 | 47.5% |
 
+In the following table, I'll provide more context for the mentioned categories
+
+| Perspective | Theme                          | Included in this category                                                                                                                      |
+| ----------- | ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| Seller      | **Customer support**           | Slow or absent responses, automated/template responses, inability to reach human support, unhelpful communication, unresolved support requests |
+| Seller      | **Perceived buyer favoritism** | Sellers reporting that Vinted unfairly sided with buyers or that buyers received more protection in disputes                                   |
+| Seller      | **Seller protection/scam**   | Sellers reporting scams, fraudulent buyers, financial losses, or feeling insufficiently protected against fraudulent activity                  |
+| Seller      | **Dispute resolution**         | Complaints specifically about how a dispute, claim, refund, or conflict between buyer and seller was handled                                   |
+| Seller      | **Shipping**                   | Problems with shipping costs, labels, lost/damaged parcels, delivery issues, or shipping-related restrictions                                  |
+| Buyer       | **Customer support**           | Slow, automated, unhelpful, or ineffective responses; unresolved support requests                                                              |
+| Buyer       | **Item condition**             | Items arriving in worse condition than described, inaccurate condition descriptions, or difficulty filtering by condition                      |
+| Buyer       | **Search/filtering**           | Missing, limited, or ineffective search and filtering options, including difficulty narrowing listings by relevant criteria                    |
+| Buyer       | **Scam**                       | Reports of fraudulent sellers/listings, counterfeit goods, or buyers losing money due to suspected scams                                       |
+| Buyer       | **Shipping**                   | High shipping costs, delivery problems, limited location options, or difficulty identifying lower-shipping-cost listings                       |
+| Buyer       | **Buyer protection**           | Buyers reporting inadequate protection, difficulty getting refunds, or feeling unsupported when an item was not received/as described          |
+
+
 According to the data, customer support is the dominant pain point. Most users are complaining about automated or slow responses, poor resolution or perceived unfair decisions. Another pain point is sudden, automated account suspensions or restrictions that occur without clear human communication.
 
 Some users reported the absence of a condition filter, while the feature was available in my current app version. This may indicate a staged rollout, A/B test, regional variation, or inconsistent UX rather than a universally missing feature.
