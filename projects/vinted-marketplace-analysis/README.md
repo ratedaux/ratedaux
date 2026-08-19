@@ -1,6 +1,6 @@
 # 🛍️ Vinted Product Analytics Case Study
 
-> An independent Product Analytics case study exploring buyer behavior, conversion, and potential friction points in the Vinted marketplace.
+> An independent Product Analytics case study exploring buyer behaviour, conversion, and potential friction points in the Vinted marketplace.
 
 Project Status: 🟡 In Progress  
 Project Type: Independent Portfolio Project  
@@ -67,7 +67,7 @@ I will refine this journey as I explore the product and gather evidence.
 |---|---|---|
 | 🎯 Business Problem | Identify potential friction in the buyer journey | 🟡 In Progress |
 | 👤 Product Research | Explore the buyer experience and user journey | 🟡 In Progress |
-| 🔎 Public Research | Analyze reviews, discussions and publicly available information | ⚪️ Planned |
+| 🔎 Public Research | Analyze reviews, discussions and publicly available information | 🟡 In Progress |
 | 💡 Hypotheses | Develop measurable hypotheses from the research | ⚪️ Planned |
 | 📐 Metrics | Define relevant product and funnel KPIs | ⚪️ Planned |
 | 🗄️ Data | Create a simulated product event dataset | ⚪️ Planned |
@@ -104,16 +104,32 @@ I will document relevant parts of the experience, including:
 
 ### 2. Public User Feedback
 
-**Sources analysed:** App Store, Google Play, Reddit.
+**Sources analysed:** App Store, Google Play, Reddit, Trustpilot.
 
-| Theme | Seller reviews | Buyer reviews | % of reviews mentioning theme |
-|---|---|---|---|
-| Customer support | 18 | 7 | 25% |
-| Dispute resolution | 18 | 7 | 25% |
-| Search/filtering | 18 | 7 | 25% |
-| Shipping | 18 | 7 | 25% |
+> Note: Reviews could contain multiple themes; percentages therefore do not sum to 100%.
 
-Types of reported issues falling into the category of customer support: 
+**Seller's reviews:**
+40 seller reviews analysed
+| Theme | Reviews | % of seller reviews | 
+|---|---|---|
+| Customer support | 35 | 87.5% |
+| Perceived buyer favoritism | 8 | 20% |
+| Seller protection/scam | 7 | 17.5% |
+| Dispute resolution | 6 | 15% |
+| Shipping | 4 | 10% |
+
+**Buyer's reviews:**
+40 buyer reviews analysed
+| Theme | Reviews | % of buyer reviews |
+|---|---|---|
+| Customer support | 26 | 65% |
+| Item condition | 6 | 15% |
+| Search/filtering | 7 | 17.5% |
+| Scam | 11 | 27.5% |
+| Shipping | 17 | 42.5% |
+| Buyer protection | 19 | 47.5% |
+
+According to the data, customer support is the dominant pain point. Most users are complaining about automated or slow responses, poor resolution or perceived unfair decisions. Another pain point is sudden, automated account suspensions or restrictions that occur without clear human communication.
 
 Some users reported the absence of a condition filter, while the feature was available in my current app version. This may indicate a staged rollout, A/B test, regional variation, or inconsistent UX rather than a universally missing feature.
 
@@ -136,13 +152,13 @@ I will compare relevant parts of the experience with other marketplace products 
 
 These are starting hypotheses, not conclusions.
 
-### H1 — Favorites do not always indicate strong purchase intent
+### H1 — Favourites do not always indicate strong purchase intent
 
-Users may use Favorites primarily as a way to save or compare items rather than as a direct step toward purchasing.
+Users may use Favourites primarily as a way to save or compare items rather than as a direct step toward purchasing.
 
 Potential analysis:
 
-Favorite → Purchase conversion rate
+Favourite → Purchase conversion rate
 
 ---
 
@@ -166,7 +182,7 @@ Compare:
 
 New Users vs. Returning Users
 
-across funnel conversion and repeat purchase behavior.
+across funnel conversion and repeat purchase behaviour.
 
 ---
 
@@ -198,7 +214,7 @@ The initial metrics I plan to investigate include:
 
 ### Segmentation
 
-Where appropriate, I will compare behavior by:
+Where appropriate, I will compare behaviour by:
 
 - New vs. returning users
 - Device
