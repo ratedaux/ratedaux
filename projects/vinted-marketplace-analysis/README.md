@@ -11,9 +11,9 @@ Focus: Product Analytics · User Behavior · UX · Conversion · Experimentation
 
 ## 📌 Project Overview
 
-Vinted is a peer-to-peer marketplace where users can buy and sell second-hand items.
+Vinted is a peer-to-peer marketplace where users can buy and sell second-hand items. The platform depends on successful interactions between both sides: buyers need to trust that they will receive items as described, while sellers need to trust that they will be paid and protected from fraudulent claims.
 
-For this case study, I am exploring the buyer journey from discovering an item to completing a purchase, with a particular focus on understanding where users may lose interest or encounter friction.
+For this case study, I am exploring the buyer and seller journey, with a particular focus on understanding where users may lose interest or encounter friction.
 
 The project combines:
 
@@ -24,6 +24,24 @@ The project combines:
 - 📈 Data visualisation
 - 💡 Product recommendations
 - 🧪 Experiment design
+
+- ## 📊 Project Roadmap
+
+| Area | What I'm investigating | Status |
+|---|---|---|
+| 🎯 Business Problem | Identify potential friction in the buyer journey | 🟡 In Progress |
+| 👤 Product Research | Explore the buyer experience and user journey | 🟡 In Progress |
+| 🔎 Public Research | Analyze reviews, discussions and publicly available information | 🟡 In Progress |
+| 💡 Hypotheses | Develop measurable hypotheses from the research | ⚪️ Planned |
+| 📐 Metrics | Define relevant product and funnel KPIs | ⚪️ Planned |
+| 🗄️ Data | Create a simulated product event dataset | ⚪️ Planned |
+| 💻 SQL Analysis | Analyze conversion, funnel behavior and user segments | ⚪️ Planned |
+| 📈 Dashboard | Build a product analytics dashboard | ⚪️ Planned |
+| 💭 Insights | Translate analysis into product insights | ⚪️ Planned |
+| 🚀 Recommendations | Suggest potential product improvements | ⚪️ Planned |
+| 🧪 Experimentation | Design potential A/B tests | ⚪️ Planned |
+
+---
 
 > Disclaimer: This is an independent portfolio project and is not affiliated with Vinted. Any quantitative dataset created for the analysis is simulated and does not represent Vinted's internal data.
 
@@ -61,46 +79,61 @@ I will refine this journey as I explore the product and gather evidence.
 
 ---
 
-## 📊 Project Roadmap
-
-| Area | What I'm investigating | Status |
-|---|---|---|
-| 🎯 Business Problem | Identify potential friction in the buyer journey | 🟡 In Progress |
-| 👤 Product Research | Explore the buyer experience and user journey | 🟡 In Progress |
-| 🔎 Public Research | Analyze reviews, discussions and publicly available information | 🟡 In Progress |
-| 💡 Hypotheses | Develop measurable hypotheses from the research | ⚪️ Planned |
-| 📐 Metrics | Define relevant product and funnel KPIs | ⚪️ Planned |
-| 🗄️ Data | Create a simulated product event dataset | ⚪️ Planned |
-| 💻 SQL Analysis | Analyze conversion, funnel behavior and user segments | ⚪️ Planned |
-| 📈 Dashboard | Build a product analytics dashboard | ⚪️ Planned |
-| 💭 Insights | Translate analysis into product insights | ⚪️ Planned |
-| 🚀 Recommendations | Suggest potential product improvements | ⚪️ Planned |
-| 🧪 Experimentation | Design potential A/B tests | ⚪️ Planned |
-
----
-
 ## 🔎 Research Approach
 
 I will use several sources of evidence rather than relying only on quantitative data.
 
 ### 1. Product Exploration
 
-I will explore Vinted from different user perspectives, including:
+I will explore Vinted from both seller and buyer perspectives.
 
-- 🛍️ New buyer
-- 🔄 Returning buyer
-- 👗 New seller
+**Buyer journey**
+Search
+↓
+Apply filters
+↓
+Find an item
+↓
+Check seller/listing
+↓
+Purchase
+↓
+Shipping
+↓
+Receive item
+↓
+Problem? → Contact support / Open issue
 
-I will document relevant parts of the experience, including:
+**Potential frictions during the buyer journey**
+| Stage         | User goal            | Potential friction        |
+| ------------- | -------------------- | ------------------------- |
+| Search        | Find relevant item   | Limited filters           |
+| Evaluate      | Assess item/seller   | Incomplete information    |
+| Purchase      | Complete transaction | Shipping cost             |
+| Post-purchase | Resolve problems     | Support/protection issues |
 
-- Onboarding
-- Search and discovery
-- Product pages
-- Favorites
-- Messaging
-- Checkout
-- Notifications
-- Selling flow
+**Seller journey**
+Create listing
+↓
+Receive order
+↓
+Ship item
+↓
+Buyer receives item
+↓
+Transaction completed
+          ↓
+       Problem?
+          ↓
+    Dispute/support
+
+**Potential frictions during the seller journey**
+| Stage         | User goal            | Potential friction        |
+| ------------- | -------------------- | ------------------------- |
+| Create listing| Sell an item         | Listing being taken down  |
+| Shipping      | Shipping item        | Incomplete information/shipping issues|
+| Buyer receives item | Buyer is satisfied | Condition doesn't match description        |
+| Post-purchase | Resolve problems     | Support/protection issues |
 
 ### 2. Public User Feedback
 
@@ -152,16 +185,33 @@ Some users reported the absence of a condition filter, while the feature was ava
 
 ---
 
-### 3. Competitive Research
+### Business Problem
 
-I will compare relevant parts of the experience with other marketplace products to identify differences in:
+Since I don't have access to Vinted's internal data, I'll frame it as a potential business problem identified through user research and public feedback.
 
-- Discovery
-- Search
-- Trust
-- Checkout
-- Seller experience
-- User retention
+> User review analysis identified customer support and post-transaction protection as recurring pain points for both buyers and sellers. Ineffective support and perceived unfairness in dispute resolution may reduce trust in the platform and negatively affect user retention and marketplace activity.
+
+The marketplace-specific risks are as follows:
+
+**For buyers:**
+
+If they don't trust protection → less willingness to purchase.
+
+**For sellers:**
+
+If they feel financially unprotected → less willingness to list and sell.
+
+**For Vinted:**
+
+Losing either side damages marketplace liquidity.
+
+Poor experience / unresolved issue
+↓
+Loss of trust
+↓
+Reduced willingness to buy or sell
+↓
+Potential impact on marketplace activity and retention
 
 ---
 
