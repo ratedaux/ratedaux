@@ -215,6 +215,70 @@ Potential impact on marketplace activity and retention
 
 ---
 
+## 💡 Key findings
+
+**Finding 1: Customer support is the dominant pain point across both user groups**
+
+**Evidence:**
+
+- 87.5% of seller reviews
+- 65% of buyer reviews
+
+**Journey stage:**
+
+Post-transaction / issue resolution
+
+**Potential impact:**
+
+Reduced user trust and frustration when problems occur.
+
+**Finding 2: Protection creates a marketplace tension**
+
+**Evidence:**
+
+- 47.5% of buyer reviews mentioned buyer protection
+- 20% of seller reviews mentioned perceived buyer favouritism
+- 17.5% mentioned seller protection/scams
+
+**Insight:**
+
+Buyers want stronger protection, while some sellers perceive existing protection mechanisms as unfairly weighted toward buyers.
+
+The main question is:
+>How can the platform create a dispute-resolution system perceived as fair and trustworthy by both sides?
+
+**Finding 3: Shipping creates friction for buyers**
+
+**Evidence:**
+
+- 42.5% of buyer reviews mentioned shipping
+- Personal product observations regarding location filtering, etc.
+- Some users reported an inability to contact the shipping company or track their order.
+
+**Journey stage:**
+
+Discovery → Purchase / Shipping
+
+**Potential impact:**
+
+Higher purchase friction and potentially higher transaction costs. 
+
+---
+
+## Problem prioritisation
+
+In the next table, I'll try to prioritise the pain points by their impact and strategic importance:
+
+| Problem area       | Frequency in research | Impact on user journey | Strategic importance | Priority    |
+| ------------------ | --------------------- | ---------------------- | -------------------- | ----------- |
+| Customer support   | Very high             | High                   | High                 | High        |
+| Dispute/protection | High                  | High                   | High                 | High        |
+| Shipping           | Moderate-high         | Medium-high            | Medium               | Medium-high |
+| Search/filtering   | Lower                 | Medium                 | Medium               | Medium      |
+| Item condition     | Lower                 | Medium                 | Medium               | Medium      |
+
+According to the data, the main focus should be on Customer Support and Dispute/protection problems, as they show the strongest influence on user experience.
+
 ## 💡 Initial Hypotheses
 
 These are starting hypotheses, not conclusions.
