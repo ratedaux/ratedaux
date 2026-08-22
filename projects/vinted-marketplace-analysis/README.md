@@ -279,41 +279,44 @@ In the next table, I'll try to prioritise the pain points by their impact and st
 
 According to the data, the main focus should be on Customer Support and Dispute/protection problems, as they show the strongest influence on user experience.
 
+---
+
+## Root Cause Analysis
+
+The main question at this point is:
+>Why are users dissatisfied with support and issue resolution?
+│
+├── Communication problems
+│   ├── Slow responses
+│   ├── Automated responses
+│   └── Unclear explanations
+│
+├── Resolution process
+│   ├── Difficult to resolve cases
+│   ├── Unclear case status
+│   └── Limited escalation/appeal options
+│
+└── Trust & fairness
+    ├── Buyers feel insufficiently protected
+    ├── Sellers feel Vinted favours buyers
+    └── Decisions are perceived as inconsistent/unfair
+
 ## 💡 Initial Hypotheses
 
 These are starting hypotheses, not conclusions.
 
-### H1 — Favourites do not always indicate strong purchase intent
+### H1 — Transparency
 
-Users may use Favourites primarily as a way to save or compare items rather than as a direct step toward purchasing.
+> If users receive clearer explanations of dispute decisions and the evidence used to reach them, they may perceive the resolution process as fairer.
 
-Potential analysis:
+### H2 — Case visibility
 
-Favourite → Purchase conversion rate
+> If users can clearly track the status and next steps of an issue, they may experience less uncertainty and frustration during resolution.
 
----
 
-### H2 — Purchase friction may occur late in the buyer journey
+### H3 — Escalation
 
-Additional information or costs revealed later in the purchasing process could contribute to abandonment.
-
-Potential analysis:
-
-Checkout Started → Purchase conversion
-
----
-
-### H3 — New users may behave differently from returning users
-
-Users familiar with the marketplace may move through the purchase funnel differently from first-time users.
-
-Potential analysis:
-
-Compare:
-
-New Users vs. Returning Users
-
-across funnel conversion and repeat purchase behaviour.
+If users have a clearer way to challenge or escalate decisions, unresolved cases may lead to less dissatisfaction with customer support.
 
 ---
 
